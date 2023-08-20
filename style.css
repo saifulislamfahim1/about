@@ -1,0 +1,453 @@
+/* this is hero start */
+#hero #herostart{
+    width: 100%;
+    background-color: #f5f1ee;
+}
+.about{
+    color: black;
+    font-weight: 700;
+    padding-top: 80px;
+    text-align: center;
+}
+.home{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 80px;
+    text-align: center;
+    color: #6a6f73;
+}
+/* this is hero end */
+
+/* this is mian start */
+#main{
+    float: left;
+}
+#main #mainstart{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#main #mainend{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+.share{
+    font-weight: 700;
+    color: black;
+    margin-top: 20px;
+}
+.accumsan{
+    font-size: 18px;
+    color: #6a6f73;
+    font-weight: 600;
+    text-align: justify;
+    margin-top: 20px;
+}
+.curabitur{
+    font-size: 18px;
+    color: #6a6f73;
+    font-weight: 600;
+    text-align: justify;
+    margin-top: 30px;
+}
+.lance{
+    color: black;
+    margin-top: 30px;
+}
+.founder{
+    color: #6a6f73;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* this is mian end */
+
+/* this is choose start */
+#choose{
+    float: left;
+    width: 100%;
+}
+#choose #chooseone{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#choose #choosetwo{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#choose #choosethree{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.are{
+    color: black;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.rutrum{
+    font-size: 18px;
+    font-weight: 600;
+    color: #6a6f73;
+}
+.one{
+    width: 12px;
+    height: 12px;
+    background-color: #1bbf72;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 29px;
+}
+.two{
+    width: 12px;
+    height: 12px;
+    background-color: #1bbf72;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 29px;
+}
+.three{
+    width: 12px;
+    height: 12px;
+    background-color: #1bbf72;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 29px;
+}
+.four{
+    width: 12px;
+    height: 12px;
+    background-color: #1bbf72;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 29px;
+}
+.one1{
+    margin-left: 23px;
+    margin-top: 8px;
+    color: #6a6f73;
+    font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+}
+.one2{
+    margin-left: 23px;
+    margin-top: 25px;
+    color: #6a6f73;
+    font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+}
+.one3{
+    margin-left: 23px;
+    margin-top: 25px;
+    color: #6a6f73;
+    font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+}
+.one4{
+    margin-left: 23px;
+    margin-top: 25px;
+    color: #6a6f73;
+    font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements{
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#achievements #achievementsstart{
+    width: 50%;
+    float: left;
+    background-color: #1bbf72;
+    border-radius: 0px 0px 15px 15px;
+}
+.imageachie{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.achievements{
+    position: relative;
+    color: white;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.secrets{
+    position: relative;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses{
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+}
+#courses #coursesone{
+    width: 25%;
+    float: left;
+}
+#courses #coursestwo{
+    width: 25%;
+    float: left;
+}
+#courses #coursesthree{
+    width: 25%;
+    float: left;
+}
+#courses #coursesfour{
+    width: 25%;
+    float: left;
+}
+.number{
+    font-weight: 700;
+    color: #1bbf72;
+    text-align: center;
+}
+.text{
+    color: black;
+    text-align: center;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor{
+    float: left;
+}
+#instructor #instructorstart{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 60px;
+    text-align: center;
+}
+.instructorbutton{
+    width: 250px;
+    color: white;
+    border-style: none;
+    height: 65px;
+    background-color: #1bbf72;
+    font-size: 18px;
+
+}
+.instructorbutton:hover{
+    background-color: black;
+}
+.instructor{
+    font-weight: 700;
+    color: black;
+}
+.accumsan{
+    font-size: 18px;
+    color: #6a6f73;
+    text-align: center;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image{
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+#image #imageone{
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+#image #imagetwo{
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+#image #imagethree{
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+#image #imagefour{
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+.william{
+    color: black;
+    margin-top: 20px;
+}
+.stack{
+    font-size: 18px;
+    color: #6a6f73;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime{
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 100%;
+    background-color: #1bbf72;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 60px;
+}
+#lifetime #lifetimestart{
+    width: 70%;
+    float: left;
+}
+#lifetime #lifetimeend{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.pace{
+    color: white;
+    font-weight: 700;
+}
+.started{
+    width: 200px;
+    height: 60px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.started:hover{
+    background-color: black;
+    color: white;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student{
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+
+}
+#student #studentstart{
+    width: 70%;
+    float: left;
+}
+#student #studentend{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.happy{
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+.viewbutton{
+    width: 200px;
+    height: 60px;
+    color: white;
+    border-style: none;
+    background-color: #1bbf72;
+    font-size: 18px;
+}
+.viewbutton:hover{
+    background-color: black;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla{
+    margin-top: 65px;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#nulla #nullastart{
+    width: 50%;
+    float: left;
+}
+#nulla #nullaend{
+    width: 50%;
+    float: left;
+    margin-top: 40px;
+}
+.porttitor{
+    color: black;
+}
+.katliv{
+    color: black;
+}
+.student1{
+    font-size: 18px;
+    color: #6a6f73;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community{
+    float: left;
+    width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 70px;
+}
+#community #communitystart{
+    width: 100%;
+    text-align: center;
+}
+.ipunttext{
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: #f8f8f9;
+    width: 300px;
+    border-style: none;
+    font-size: 18px;
+}
+.ipunttext:hover{
+    border: 1px solid #1bbf72;
+}
+.subbutton{
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: #1bbf72;
+    border-style: none;
+    width: 157px;
+    color: white;
+    font-size: 18px;
+}
+.subbutton:hover{
+    background-color: black;
+    color: white;
+}
+.community{
+    color: black;
+}
+.game{
+    font-size: 18px;
+    color: #6a6f73;
+}
+/* this is Community end */

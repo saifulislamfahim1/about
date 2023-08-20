@@ -1,0 +1,663 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 50%;
+}
+#main #mainend{
+    width: 50%;
+}
+   /* this is mian end */
+
+      /* this is choose start */
+#choose #chooseone{
+    width: 33.3333333%;
+}
+#choose #choosetwo{
+    width: 33.3333333%;
+}
+#choose #choosethree{
+    width: 33.3333333%;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 50%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 25%;
+}
+#courses #coursestwo{
+    width: 25%;
+}
+#courses #coursesthree{
+    width: 25%;
+}
+#courses #coursesfour{
+    width: 25%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 25%;
+}
+#image #imagetwo{
+    width: 25%;
+}
+#image #imagethree{
+    width: 25%;
+}
+#image #imagefour{
+    width: 25%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 70%;
+}
+#lifetime #lifetimeend{
+    width: 30%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 70%;
+}
+#student #studentend{
+    width: 30%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 50%;
+}
+#nulla #nullaend{
+    width: 50%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 50%;
+}
+#main #mainend{
+    width: 50%;
+}
+   /* this is mian end */
+
+      /* this is choose start */
+#choose #chooseone{
+    width: 33.3333333%;
+}
+#choose #choosetwo{
+    width: 33.3333333%;
+}
+#choose #choosethree{
+    width: 33.3333333%;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 50%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 25%;
+}
+#courses #coursestwo{
+    width: 25%;
+}
+#courses #coursesthree{
+    width: 25%;
+}
+#courses #coursesfour{
+    width: 25%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 25%;
+}
+#image #imagetwo{
+    width: 25%;
+}
+#image #imagethree{
+    width: 25%;
+}
+#image #imagefour{
+    width: 25%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 70%;
+}
+#lifetime #lifetimeend{
+    width: 35%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 65%;
+}
+#student #studentend{
+    width: 35%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 50%;
+}
+#nulla #nullaend{
+    width: 50%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 50%;
+}
+#main #mainend{
+    width: 50%;
+}
+   /* this is mian end */
+
+      /* this is choose start */
+#choose #chooseone{
+    width: 33.3333333%;
+}
+#choose #choosetwo{
+    width: 33.3333333%;
+}
+#choose #choosethree{
+    width: 33.3333333%;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 50%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 25%;
+}
+#courses #coursestwo{
+    width: 25%;
+}
+#courses #coursesthree{
+    width: 25%;
+}
+#courses #coursesfour{
+    width: 25%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 25%;
+}
+#image #imagetwo{
+    width: 25%;
+}
+#image #imagethree{
+    width: 25%;
+}
+#image #imagefour{
+    width: 25%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 65%;
+}
+#lifetime #lifetimeend{
+    width: 35%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 650%;
+}
+#student #studentend{
+    width: 35%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 50%;
+}
+#nulla #nullaend{
+    width: 50%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 50%;
+}
+#main #mainend{
+    width: 50%;
+}
+   /* this is mian end */
+   /* this is choose start */
+#choose #chooseone{
+    width: 33.3333333%;
+}
+#choose #choosetwo{
+    width: 33.3333333%;
+}
+#choose #choosethree{
+    width: 33.3333333%;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 50%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 25%;
+}
+#courses #coursestwo{
+    width: 25%;
+}
+#courses #coursesthree{
+    width: 25%;
+}
+#courses #coursesfour{
+    width: 25%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 25%;
+}
+#image #imagetwo{
+    width: 25%;
+}
+#image #imagethree{
+    width: 25%;
+}
+#image #imagefour{
+    width: 25%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 65%;
+}
+#lifetime #lifetimeend{
+    width: 35%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 65%;
+}
+#student #studentend{
+    width: 35%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 50%;
+}
+#nulla #nullaend{
+    width: 50%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+
+   /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 100%;
+}
+#main #mainend{
+    width: 100%;
+}
+   /* this is mian end */
+
+   /* this is choose start */
+#choose #chooseone{
+    width: 100%;
+}
+#choose #choosetwo{
+    width: 100%;
+}
+#choose #choosethree{
+    width: 100%;
+}
+/* this is choose end */
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 100%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 100%;
+}
+#courses #coursestwo{
+    width: 100%;
+}
+#courses #coursesthree{
+    width: 100%;
+}
+#courses #coursesfour{
+    width: 100%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 100%;
+}
+#image #imagetwo{
+    width: 100%;
+}
+#image #imagethree{
+    width: 100%;
+}
+#image #imagefour{
+    width: 100%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 100%;
+}
+#lifetime #lifetimeend{
+    width: 100%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 100%;
+}
+#student #studentend{
+    width: 100%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 100%;
+}
+#nulla #nullaend{
+    width: 100%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+
+  }
+    
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+   /* this is hero start */
+#hero #herostart{
+    width: 100%;
+}
+   /* this is hero end */
+
+   /* this is mian start */
+   #main #mainstart{
+    width: 100%;
+}
+#main #mainend{
+    width: 100%;
+}
+   /* this is mian end */
+
+/* this is choose start */
+#choose #chooseone{
+    width: 100%;
+}
+#choose #choosetwo{
+    width: 100%;
+}
+#choose #choosethree{
+    width: 100%;
+}
+/* this is choose end */
+
+/* this is Achievements start */
+#achievements #achievementsstart{
+    width: 100%;
+}
+/* this is Achievements end */
+
+/* this is Courses start */
+#courses #coursesone{
+    width: 100%;
+}
+#courses #coursestwo{
+    width: 100%;
+}
+#courses #coursesthree{
+    width: 100%;
+}
+#courses #coursesfour{
+    width: 100%;
+}
+/* this is Courses end */
+
+/* this is Instructor start */
+#instructor #instructorstart{
+    width: 100%;
+}
+/* this is Instructor end */
+
+/* this is image start */
+#image #imageone{
+    width: 100%;
+}
+#image #imagetwo{
+    width: 100%;
+}
+#image #imagethree{
+    width: 100%;
+}
+#image #imagefour{
+    width: 100%;
+}
+/* this is image end */
+
+/* this is lifetime start */
+#lifetime #lifetimestart{
+    width: 100%;
+}
+#lifetime #lifetimeend{
+    width: 100%;
+}
+/* this is lifetime end */
+
+/* this is Student start */
+#student #studentstart{
+    width: 100%;
+}
+#student #studentend{
+    width: 100%;
+}
+/* this is Student end */
+
+/* this is nulla start */
+#nulla #nullastart{
+    width: 100%;
+}
+#nulla #nullaend{
+    width: 100%;
+}
+/* this is nulla end */
+
+/* this is Community start */
+#community #communitystart{
+    width: 100%;
+}
+/* this is Community end */
+    
+  }
